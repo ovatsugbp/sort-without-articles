@@ -1,5 +1,5 @@
 # Sort Without Articles
-167th day of JavaScript30 created by [Wes Bos](https://github.com/wesbos).
+17th day of JavaScript30 created by [Wes Bos](https://github.com/wesbos).
 
 ### 🛠 Tools:
 - JavaScript
